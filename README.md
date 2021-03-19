@@ -1,0 +1,1 @@
+This is a brief introduction to the skills needed to create a copy of the Google Homepage. 
